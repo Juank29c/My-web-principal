@@ -14,7 +14,7 @@ html{
 }
 *, *:before, *:after {
     box-sizing: inherit;
-}/*hack para manejo de box - no editar*/
+}/*hack para manejo de box - no editar codigo constante*/
 
 /*scroll snap*/
 .servicios, .navegacion-principal, .formulario{
